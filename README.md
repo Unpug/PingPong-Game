@@ -1,2 +1,1 @@
-# PingPong-Game
-Another project made with Algorithmics Visual Studio Code
+#PingPong Game, another project made with Algorithmics Visual Studio Code
